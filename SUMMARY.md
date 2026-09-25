@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [硬件规格](docs/硬件规格.md)
 * [开发板信息](docs/开发板信息.md)
 * [官方固件](docs/官方固件.md)
 * [设备树分析](docs/设备树分析.md)
